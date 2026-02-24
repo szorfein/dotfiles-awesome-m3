@@ -1,0 +1,40 @@
+set font "Iosevka Nerd Font Medium 10"
+
+set default-fg                    "#E2E2E9"
+set default-bg 			  "#121318"
+
+set completion-bg		  "#282A2F"
+set completion-fg		  "#E2E2E9"
+set completion-highlight-bg	  "#2F4578"
+set completion-highlight-fg	  "#DAE2FF"
+set completion-group-bg		  "#282A2F"
+set completion-group-fg		  "#D1BCFD"
+
+set statusbar-fg		  "#E2E2E9"
+set statusbar-bg		  "#282A2F"
+
+set notification-bg		  "#282A2F"
+set notification-fg		  "#E2E2E9"
+set notification-error-bg	  "#282A2F"
+set notification-error-fg	  "#FFB4AB"
+set notification-warning-bg	  "#282A2F"
+set notification-warning-fg	  "#F3B2E4"
+
+set inputbar-fg			  "#E2E2E9"
+set inputbar-bg 		  "#282A2F"
+
+set recolor                       "true"
+set recolor-lightcolor		  "#121318"
+set recolor-darkcolor		  "#E2E2E9"
+
+set index-fg		          "#E2E2E9"
+set index-bg		          "#121318"
+set index-active-fg	          "#E2E2E9"
+set index-active-bg	          "#282A2F"
+
+set render-loading-bg	          "#121318"
+set render-loading-fg	          "#E2E2E9"
+
+set highlight-color		  rgba(87,82,104,0.5)
+set highlight-fg                  rgba(245,194,231,0.5)
+set highlight-active-color	  rgba(245,194,231,0.5)
