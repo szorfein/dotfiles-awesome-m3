@@ -1,0 +1,8 @@
+---
+# All the 3 days
+things:
+  - name: vie
+    url: https://github.com/szorfein/vie
+    git: true
+    dest_dir: .config/nvim
+time: 259200

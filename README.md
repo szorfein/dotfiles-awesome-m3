@@ -6,8 +6,8 @@
 <a href="https://github.com/szorfein/dotfiles/network/members/">
   <img src="https://img.shields.io/github/forks/szorfein/dotfiles?color=%237AA2F7&labelColor=%231A1B26&style=for-the-badge">
 </a>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/szorfein/dotfiles?color=73daca&labelColor=%231A1B26&style=for-the-badge" />
-<img alt="" src="https://img.shields.io/github/repo-size/szorfein/dotfiles?color=%230969da&labelColor=%231A1B26&style=for-the-badge&label=Repo" />
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/szorfein/dotfiles-awesome-m3?color=73daca&labelColor=%231A1B26&style=for-the-badge" />
+<img alt="" src="https://img.shields.io/github/repo-size/szorfein/dotfiles-awesome-m3?color=%230969da&labelColor=%231A1B26&style=for-the-badge&label=Repo" />
 </p>
 
 ###
