@@ -2,7 +2,7 @@
 
 set -o errexit
 
-theme_dir="$HOME/.dotfiles/awesome-m3-themes"
+theme_dir="$HOME/.dotfiles/awesome-themes"
 current_theme="/tmp/awm-m3"
 
 [ -d "$theme_dir" ] || {
