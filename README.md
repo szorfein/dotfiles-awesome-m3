@@ -51,7 +51,7 @@
 ### Installation
 
 For manual install, follow the guide
-[here](https://github.com/szorfein/dotfiles/tree/focus-2.0.0/awesome-m3/.config/awesome)
+[here](https://github.com/szorfein/dotfiles-awesome-m3/tree/main/awesome/.config/awesome)
 
 Automatic installation (better after a fresh OS install) available with
 `chezmoi` [dots](https://github.com/szorfein/dots) or
@@ -67,13 +67,21 @@ More screenshots of previous themes are available at
 > [!NOTE] My Reddit account was totally blocked and no way to recover it
 > (access/email/password problem). Accessing reddit.com with TOR start to be too
 > annoying so I just can't login/post anymore on the platform...
+> If people want to help, they are free to share my screenshots everywhere.
 
-If people want to help, they are free to share my screenshots everywhere.
+## 🙌 Contributing
 
-#### Support
+- **Bugs**: This desktop has only one consistent user (me) and there could be
+  bugs I haven't run into yet. If you have the time to report a bug, please do
+  so in the repository's [issues](https://github.com/szorfein/dotfiles-awesome-m3/issues).
+- **Pull requests**: Pull requests for bug fixes or README improvements are
+  welcome. However, before starting work on a pull request for a new feature,
+  please open an issue so we can discuss about it first.
 
-Any support will be greatly appreciated, star the repo, a coffee, donation,
-thanks you!
+## 💝 Support
 
-[![Donate](https://img.shields.io/badge/don-liberapay-1ba9a4)](https://liberapay.com/szorfein)
-[![Donate](https://img.shields.io/badge/don-patreon-ab69f4)](https://www.patreon.com/szorfein)
+Any support will be greatly appreciated, star the repo, share my screenshots,
+coffee, donation, thanks you!
+
+[![liberapay](https://img.shields.io/badge/Liberapay-f6c915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/szorfein)
+[![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/szorfein)

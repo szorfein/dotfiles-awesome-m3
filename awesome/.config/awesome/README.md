@@ -7,7 +7,7 @@ AwesomeWM.
 - Support only dark theme.
 - Colors are designed to meet accessibility standards for color contrast.
 - Shell scripts compatible with `/bin/dash`.
-- Lighten WM, consume around 170Mb of memory compared to Wayland (~1G).
+- Lighten WM, consume around 170Mb of memory compared to Wayland (~500MB).
 - Can works with [Musl](https://musl.libc.org/about.html)
 - Auto-lock with xss-lock and betterlockscreen.
 - Easy to create your own theme.
@@ -74,12 +74,12 @@ the right place.
 Last theme is 'focus'.
 
     cd ~/.dotfiles
-    ./stow.sh --purge --awesome-m3 focus
+    ./stow.sh --purge --awesome focus
 
 Always use `--purge` as first argument, your theme in last
 `--awesome-m3 themename`. More complete command, adapt with your need:
 
-    ./stow.sh --purge --doom --zsh --ncmpcpp --neovim --awesome-m3 focus
+    ./stow.sh --purge --doom --zsh --ncmpcpp --neovim --awesome focus
 
 ## Install the fonts, wallpapers required
 
